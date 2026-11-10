@@ -1,0 +1,20 @@
+Date:
+Tue Nov 10 14:42:47 CET 2026
+CPU:
+Apple M3 Pro
+Logical CPUs:
+11
+Memory in bytes:
+19327352832
+Architecture:
+arm64
+macOS:
+ProductName:		macOS
+ProductVersion:		26.0.1
+BuildVersion:		25A362
+Java:
+openjdk version "25.0.2" 2026-01-20 LTS
+OpenJDK Runtime Environment Temurin-25.0.2+10 (build 25.0.2+10-LTS)
+OpenJDK 64-Bit Server VM Temurin-25.0.2+10 (build 25.0.2+10-LTS, mixed mode, sharing)
+Java compiler:
+javac 25.0.2

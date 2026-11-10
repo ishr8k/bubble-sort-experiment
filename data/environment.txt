@@ -1,0 +1,12 @@
+java.version=25.0.2
+java.vm.name=OpenJDK 64-Bit Server VM
+java.vendor=Eclipse Adoptium
+os.name=Mac OS X
+os.version=26.0.1
+os.arch=aarch64
+availableProcessors=11
+maxHeapMB=494
+jvmArguments=[-Xms512m, -Xmx512m, -XX:+UseSerialGC]
+nanoTimeResolutionNs=41
+masterSeed=20261110
+repetitionsPerCondition=30
